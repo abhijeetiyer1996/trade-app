@@ -172,5 +172,5 @@ This project is **MIT licensed**. You are free to use, modify, and distribute it
 
 ## ✨ Credits
   
-🔗 GitHub: [yourgithubprofile](https://github.com/abhijeetiyer1996)
+🔗 GitHub: [Abhijeet Iyer](https://github.com/abhijeetiyer1996)
 
