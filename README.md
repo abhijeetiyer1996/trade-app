@@ -122,6 +122,10 @@ The server will run at:
 
 ---
 
+## POSTMAN COLLECTION
+[trading app.postman_collection.json](https://github.com/user-attachments/files/19174387/trading.app.postman_collection.json)
+
+
 ## 📌 Example Trade Flow
 
 ### **Given Orders:**
